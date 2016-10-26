@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983597397569",
+    "project_id": "firebase-forecaster"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983597397569:android:e5170410df7e05c1",
+        "android_client_info": {
+          "package_name": "freelancerworld777.com.forecaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983597397569-iarrvlktm85bucfqinsm7qcfljemhonm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freelancerworld777.com.forecaster",
+            "certificate_hash": "93AC793A5A2B246835A51B1F385DA5DDDC4BAB24"
+          }
+        },
+        {
+          "client_id": "983597397569-fr4u6a6ann0qkmimcf738ad0kpq9o4ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSYCdNgjguFwV27Ouuf9POfQMxj4c7Uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

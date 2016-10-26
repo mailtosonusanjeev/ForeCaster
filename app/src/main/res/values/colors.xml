@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20d2bb</color>
+    <color name="colorPrimaryDark">#20d2c6</color>
+    <color name="colorAccent">#ffff</color>
+
+    // Adding Background color for IntroSlider
+    <color name="bg_screen2">#f64c73</color>
+    <color name="bg_screen3">#20d2bb</color>
+    <color name="bg_screen1">#3395ff</color>
+</resources>
